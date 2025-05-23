@@ -1,12 +1,40 @@
-# React + Vite
+## To-Do List App
+A simple and elegant To-Do List application built with *React*, *Vite*, and *Tailwind CSS*. It allows users to add, edit, delete, and mark tasks as completed.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+- Add new tasks.
+- Mark tasks as completed with a smooth line-through transition.
+- Edit existing tasks.
+- Delete tasks.
+- Modern and responsive UI.(Using Tailwind CSS)
 
-Currently, two official plugins are available:
+## Prerequisites
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Before running the application, ensure you have the following installed:
 
-## Expanding the ESLint configuration
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/) 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Run the Application
+
+Follow these steps to set up and run the application on your local machine:
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+git clone https://github.com/nithishgangineni07/To-Do-List-.git
+
+
+##  Install Dependencies
+Navigate to the project directory and install the required dependencies:
+npm install
+
+## Install Tailwind.css for Vite
+
+Go  to offcial webpage of tailwing css and check for tailwindcss for vite
+Follow the steps given in the document.
+
+
+## Run the Development Server
+npm run dev
